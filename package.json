@@ -1,0 +1,23 @@
+{
+  "name": "ddrobot",
+  "version": "1.0.0",
+  "description": "钉钉机器人",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNT-Likely/ddrobot.git"
+  },
+  "keywords": [
+    "dingding",
+    "robot"
+  ],
+  "author": "likely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TNT-Likely/ddrobot/issues"
+  },
+  "homepage": "https://github.com/TNT-Likely/ddrobot#readme"
+}
